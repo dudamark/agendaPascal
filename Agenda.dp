@@ -1,0 +1,15 @@
+[Project]
+FileName=C:\Users\Dulce\Documents\Pascal\Agenda\Agenda.dp
+Name=Agenda
+MainUnit=C:\Users\Dulce\Documents\Pascal\Agenda\agendaContatos.pas
+UnitCount=1
+ResFiles=C:\Users\Dulce\Documents\Pascal\Agenda\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Users\Dulce\Documents\Pascal\Agenda\Console.ico
+CompilerOptions=
+IncludeDirs=
+ObjFile=
+[Unit1]
+FileName=C:\Users\Dulce\Documents\Pascal\Agenda\agendaContatos.pas
+FileTime=1528907644
